@@ -3,8 +3,7 @@ import pandas as pd
 import plotly.express as px
 import os
 os.listdir()
-from google.colab import files
-uploaded = files.upload()
+
 
 st.title("Google Play Store Analytics Dashboard")
 
